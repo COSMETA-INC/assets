@@ -1,0 +1,11 @@
+{
+    "name": "Crypto International",
+    "website": "https://cri.network/",
+    "description": "CRI is a main currency of COSMETA is a blockchain startup founded in 2021 aiming to provide representative services include finance, HR (internship, employment, visa, permanent residency), accounting, trade, and legal advice.",
+    "explorer": "https://etherscan.io/token/0x12e951934246186f50146235d541d3bd1d463e4d",
+    "type": "ERC20",
+    "symbol": "CRI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x12E951934246186F50146235d541D3bD1D463E4d"
+}
